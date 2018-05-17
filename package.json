@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.18.0",
     "blessed": "^0.1.81",
     "commander": "^2.15.1",
     "dotenv": "^5.0.1",
