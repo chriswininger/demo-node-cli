@@ -31,7 +31,7 @@
 
 ### All About Ncurses
 * New Curses -- It's an API for building "GUI-like" applications for the terminal
-![ncurses](assets/images/899241728.jpeg.png?raw=true)
+![ncurses](assets/images/899241728.jpeg?raw=true)
 * Fond memories of reading articles served up this way in the school library
 
 ```
