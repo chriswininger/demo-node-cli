@@ -14,6 +14,7 @@
 * Distribution/Deployment
 	* npm
 	* snaps
+* Demos
 
 ### Unix best practices
 * When terminating return 0 for success for non-zero for error, `process.exit(1)`
@@ -50,10 +51,6 @@ https://www.gnu.org/software/ncurses/
 	* https://www.npmjs.com/package/blessed
 	* https://www.npmjs.com/package/blessed-vue
 	* https://www.npmjs.com/package/ncurses
-
-* My examples:
-	1. [Every Picture](https://github.com/chriswininger/ASCIILiveGalleryHopDemo)
-	2. [cli-worm](https://github.com/chriswininger/cli-worm)
 
 ### Logging
 * Categorization (debug levels)
@@ -175,6 +172,9 @@ module.exports = {
     }
 }
 ```
+### My Apps (Full Featured Demos):
+1. [Every Picture](https://github.com/chriswininger/ASCIILiveGalleryHopDemo)
+2. [cli-worm](https://github.com/chriswininger/cli-worm)
 
 #### other resources:
 	* https://coralogix.com/log-analytics-blog/node-logging-best-practices-tips/
